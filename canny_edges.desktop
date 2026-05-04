@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=canny_edges
+X-Python-2-Compatible=false
+Name=Canny Edge Detector (Learning)
+Comment=Naive Canny edge detector on the active layer (learning plugin).
